@@ -39,7 +39,7 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 
 ┏━━🤖 _𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮:_🤖━━┓
-┃ 🏮  *Creator:* ROMEK-XD
+┃ 🏮  *Creator:* 𝞓𝞜𝙅𝞓𝞜
 ┃ 🤡  *Bot Name:* 𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮
 ┃ 💻  *Host:* Linux Lair
 ┃ 📣  *Prefix:* ${usedPrefix} 
@@ -542,7 +542,7 @@ let str = `
 ┌─❖『 *_conversion_* 』❖
 ┃❏*convert
 ╰─────────────────❖
-𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮 𝙱𝚈 ROMEK-XD`
+𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮`
 
 
     conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, null, rpyt)
