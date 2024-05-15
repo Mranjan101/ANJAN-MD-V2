@@ -1,12 +1,11 @@
 let handler = async m => m.reply(`
 
 ╭⭑⭑⭑★✪•••**•••✪★⭑⭑⭑
-│ 📂 *BOT Name:* _ʀᴏᴍᴇᴋ-xᴅ-ʙᴏᴛ _
-│ 📝 *Description:* _ɪ'ᴍ romek-xd. A  
-┃MultiDevice WhatsApp bot with rich features  ┃Created BY 919341378016._
-│ 👤 *Owner:* _ʀᴏᴍᴇᴋ-xᴅ 
-│ 🌐 *Channel:* https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g
-┃/0029Va9wmuz8F2pGIURwmo0m
+│ 📂 *BOT Name:* _𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮 _
+│ 📝 *Description:* _ɪ'ᴍ 𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮. A  
+┃MultiDevice WhatsApp bot with rich features  ┃Created BY 919883457657._
+│ 👤 *Owner:* _𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮
+│ 🌐 *Channel:* https://whatsapp.com/channel/0029VaefLbmDOQIeE6U05X0t
 ╰━━━━━━━━━━━━━━━━╯
 `.trim())
 handler.help = ['channel']
