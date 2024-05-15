@@ -546,8 +546,8 @@ export async function participantsUpdate({
                   ppgp = await this.profilePictureUrl(id, 'image');
                 } catch (error) {
                   console.error(`Error retrieving profile picture: ${error}`);
-                  pp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
-                  ppgp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
+                  pp = 'https://i.imgur.com/2o3wyG7.jpeg'; // Assign default image URL
+                  ppgp = 'https://i.imgur.com/2o3wyG7.jpeg'; // Assign default image URL
                 } finally {
                   let text = (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user')
                     .replace('@group', await this.getName(id))
@@ -576,10 +576,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "STAR-V2",
+                        title: "𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+                        sourceUrl: 'https://chat.whatsapp.com/CcQRgknp8Eb9aJlNNR2up1',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -601,8 +601,8 @@ export async function participantsUpdate({
                   ppgp = await this.profilePictureUrl(id, 'image');
                 } catch (error) {
                   console.error(`Error retrieving profile picture: ${error}`);
-                  pp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
-                  ppgp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
+                  pp = 'https://i.imgur.com/2o3wyG7.jpeg'; // Assign default image URL
+                  ppgp = 'https://i.imgur.com/2o3wyG7.jpeg'; // Assign default image URL
                 } finally {
                   let text = (chat.sBye || this.bye || conn.bye || 'HELLO, @user')
                     .replace('@user', '@' + user.split('@')[0]);
@@ -629,10 +629,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "STAR-V2 BOT",
+                        title: "𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+                        sourceUrl: 'https://chat.whatsapp.com/CcQRgknp8Eb9aJlNNR2up1',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -741,7 +741,7 @@ export async function deleteUpdate(message) {
        
             await this.reply(msg.chat, `
             ≡ deleted a message 
-            ┌─⊷  STAR ANTI DELETE
+            ┌─⊷  𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮
             ▢ *Number :* @${participant.split`@`[0]} 
             └─────────────
             TO DEACTIVE , PRESS 
