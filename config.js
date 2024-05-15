@@ -7,10 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['', 'ROMEK-XD', true], 
-  ['918433897160', 'ARYAN-XD', true], 
-  ['', 'ROMEK-XD', true],
-  ['918433897160', 'ARYAN-XD', true] ]
+  ['', '𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮', true], 
+  ['919883457657', '𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮', true], 
+  ['', '𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮', true],
+  ['919883457657', '𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮', true] ]
 
  //Number of owners
 
@@ -53,21 +53,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑅𝛩𝛭𝛯𝛫-𝛸𝐷'
+global.botname = '𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮'
 global.premium = 'true'
-global.packname = 'ROMEK-XD' 
-global.author = '919341378016' 
-global.menuvid = 'https://i.imgur.com/aZoNiJV.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Hbb23H4Ny4RIc3I83S9PEv\n'
+global.packname = '©𝚫𝚴𝐉𝚫𝚴᭕' 
+global.author = '919883457657' 
+global.menuvid = 'https://i.imgur.com/7ZMfACG.mp4'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaefLbmDOQIeE6U05X0t\n' 
+global.dygp='▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaefLbmDOQIeE6U05X0t\n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g'
-global.fgpyp = 'https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g'
+global.fgyt = 'https://whatsapp.com/channel/0029VaefLbmDOQIeE6U05X0t'
+global.fgpyp = 'https://whatsapp.com/channel/0029VaefLbmDOQIeE6U05X0t'
 global.fglog = 'STAR.jpg' 
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _ROMEK-IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
+global.wait = '*🕣 _ANJAN-IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
 global.rwait = '🔜'
 global.dmoji = '⚡'
 global.done = '☑️'
