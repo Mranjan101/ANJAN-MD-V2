@@ -7,8 +7,8 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     var vn = "./Assets/ALIVE.mp3"
     let url = "https://github.com/Xcelsama"
     let murl = "https://YouTube.com"
-    let img = "https://i.imgur.com/5owtm8m.jpeg"
-    let con = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whatsapp.net`, ...(m.chat ? { remoteJid: '16504228206@s.whatsapp.net' } : {}) }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
+    let img = "https://i.imgur.com/UmnxnvO.jpeg"
+    let con = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whatsapp.net`, ...(m.chat ? { remoteJid: '919341378016@s.whatsapp.net' } : {}) }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
     let doc = {
         audio: {
           url: vn
@@ -21,10 +21,10 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "ROMEK-XD IS ALIVE 🌟",
+          title: "𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮 𝞘𝙎 𝞓𝙇𝞘𝝯𝞢 🌟",
           body: "STAR-MD",
           thumbnailUrl: img,
-          sourceUrl: 'https://chat.whatsapp.com/DpwQMl9PrT545z3841Ld5I',
+          sourceUrl: 'https://chat.whatsapp.com/KLNTBqPjqCW5Pa8vCzcXBw',
           mediaType: 1,
           renderLargerThumbnail: true
           }}
