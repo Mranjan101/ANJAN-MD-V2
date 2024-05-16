@@ -15,7 +15,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
   try {
     const result = await fg.fbdl(args[0]);
     const tex = `
-⊱ ─── {*ANJAN-MD-V2 FBDL*} ─── ⊰
+⊱ ─── {*ANJAN-MD-V2*} ─── ⊰
 ↳ *VIDEO TITLE:* ${result.title}
 𖢏  𝙵𝙱 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍🔍
 ⊱ ────── {⋆♬⋆} ────── ⊰`;
@@ -32,7 +32,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
   }
 };
 
-handler.help = ['facebook <url>'];
+handler.help = ['fb <url>'];
 handler.tags = ['downloader'];
 handler.command = /^((facebook|fb)(downloder|dl)?)$/i;
 handler.diamond = true;
