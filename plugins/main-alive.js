@@ -26,7 +26,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           thumbnailUrl: img,
           sourceUrl: 'https://chat.whatsapp.com/KLNTBqPjqCW5Pa8vCzcXBw',
           mediaType: 1,
-          renderLargerThumbnail: true
+          renderLargerThumbnail: false
           }}
       };
     
