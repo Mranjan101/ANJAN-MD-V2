@@ -35,7 +35,7 @@ let handler = async (m, { conn, usedPrefix, args, command, text }) => {
   }
 };
 
-handler.help = ['instagram'];
+handler.help = ['insta'];
 handler.tags = ['downloader'];
 handler.command = /^(instagram|igdl|ig|insta)$/i;
 
