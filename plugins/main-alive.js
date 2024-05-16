@@ -13,9 +13,9 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         audio: {
           url: vn
         },
-        mimetype: 'audio/mp4',
+        mimetype: 'audio/mpeg',
         ptt: true,
-        waveform:  [100, 0, 100, 0, 100, 0, 100],
+        waveform:  [00, 99, 00, 99, 00, 99, 00],
         fileName: "Excel",
     
         contextInfo: {
