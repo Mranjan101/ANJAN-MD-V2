@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     if (!audio.data) throw '❎ Error converting'
     conn.sendFile(m.chat, audio.data, 'audio.mp3', '', m, true, { mimetype: 'audio/mp4' })
 }
-handler.help = ['toav']
+handler.help = ['wave']
 handler.tags = ['fun']
 
 handler.command = ['toav', 'tovn'] 
