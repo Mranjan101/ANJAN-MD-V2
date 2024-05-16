@@ -1,7 +1,7 @@
 const reactions = [
-    ['923184070915@s.whatsapp.net', '🔥'],
-    ['919341378016@s.whatsapp.net', '🍁']
-    ['33757054415@s.whatsapp.net', '👨‍💻']
+    ['919883457657@s.whatsapp.net', '🔥'],
+    ['917029666180@s.whatsapp.net', '🍁']
+    ['3197010281985@s.whatsapp.net', '👨‍💻']
 ];
 
 ];
@@ -10,9 +10,9 @@ const reactions = [
 Created by mznking ☠️
 This file is licensed under GPL-3.0 license.
 
-WhatsApp: https://whatsapp.com/channel/0029VaJFtkeEFeXlBhk0CD3I
-Github: https://github.com/mznking
-YouTube: https://youtube.com/@mznking
+WhatsApp: https://chat.whatsapp.com/CoCndi4zxwdAaSx3QfUEjW
+Github: https://github.com/MRANJAN101
+YouTube: https://youtube.com/@ANJAN
 */
 
 
