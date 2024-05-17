@@ -46,21 +46,20 @@ let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './STAR.jpg')
 let user = global.db.data.users[who]
   
 let infobt = `
-🌠 *ᏆΝҒϴ:-𝐑𝐎𝐌𝐄𝐊-𝐗𝐃-𝐁𝐎𝐓* 🌠
+🌠 *ᏆΝҒϴ:-𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮* 🌠
 
 ╭───•••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧••••───╮
 ┃ *≡*. 
-│ ➫「 *𝐑𝐎𝐌𝐄𝐊-𝐗𝐃* 」
-│ ➫ *Name    :* ROMEK-XD
+│ ➫「 *𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮* 」
+│ ➫ *Name    :* 𝞓𝞜𝙅𝞓𝞜
 │ ➫ *Place   :* Mumbai India
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
 │➫ *Age     :* _19+
-│ ➫ *Phone   :* https://wa.me/919341378016
-│ ➫ *Instagram   :*  https://www.instagram.com/romeo_xd_?igsh=MzNlNGNkZWQ4Mg==
-│ ➫ *GROUP* :https://chat.whatsapp.com/HsSmtZoETQMCfRdkyT1uih
+│ ➫ *Phone   :* https://wa.me/919883457657
+│ ➫ *GROUP* :https://chat.whatsapp.com/KLNTBqPjqCW5Pa8vCzcXBw
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
 ┃ 
-┃© ROMEK-XD-BOT BY ARYAN-XD
+┃© 𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
 ➫  *${groupsIn.length}* united groups
@@ -69,7 +68,7 @@ let infobt = `
 ➫  *${chats.length}* Total Chats
 
 
- *🕣 R O M E K -ＳＥＲＶＥＲ*
+ *🕣 A N J A N-ＳＥＲＶＥＲ*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
 *🔵 FreeRAM:* ${format(freemem())}
 
