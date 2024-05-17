@@ -39,7 +39,7 @@ let handler = async function (m, { conn, __dirname }) {
           text: formattedInfo,
           contextInfo: {
           externalAdReply: {
-          showAdAttribution: true
+          showAdAttribution: false
           }}}}}}, {})
     } else {
       // Handle the case where the API request fails
