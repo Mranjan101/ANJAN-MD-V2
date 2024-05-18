@@ -32,5 +32,5 @@ m.reply(txt)
 
 handler.help = ['shazam']
 handler.tags = ['tools']
-handler.command = /^quemusica|shazam|whatmusic$/i
+handler.command = /^find|shazam|whatmusic$/i
 export default handler
