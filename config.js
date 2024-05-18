@@ -68,7 +68,7 @@ global.thumb = fs.readFileSync('./STAR.jpg')
 
 
 global.wait = '*🕣 _ANJAN-IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
-global.rwait = '🔜'
+global.rwait = '😱'
 global.dmoji = '⚡'
 global.done = '☑️'
 global.error = '❎' 
