@@ -5,7 +5,7 @@
   "keywords": [
     "ANJAN-MD-V2"
   ],
-  "repository": "https://github.com/Xcelsama/STAR-MD-V2/main",
+  "repository": "https://github.com/Mranjan101/ANJAN-MD-V2/main",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
