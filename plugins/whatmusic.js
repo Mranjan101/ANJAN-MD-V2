@@ -29,7 +29,7 @@ m.reply(txt)
 } else throw 'Failed to get The details'
 }
 
-handler.help = ['findmusic']
+handler.help = ['find']
 handler.tags = ['tools']
 handler.command = /^quemusica|quemusicaes|whatmusic|findmusic$/i
 export default handler
