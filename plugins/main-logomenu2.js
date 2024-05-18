@@ -49,14 +49,14 @@ let infobt = `
 
     *🤖-LOGOMENU2-🤖*
     WORKING ON IT😅
-  *❲❒❳ FROZEN 😅
+  *❲❒❳ 𝞓𝞜𝙅𝞓𝞜-𝞛𝘿 😅
   *❲❒❳ 
   *❲❒❳ 
   *❲❒❳ 
   *❲❒❳ 
   *❲❒❳ 
   *❲❒❳ 
-🔰 *Created ʙʏ Excel* 🔰
+🔰 *Created ʙʏ ANJAN* 🔰
 `
 
 conn.sendMessage(m.chat,{video : {url :"https://telegra.ph/file/21db634495279e155c37c.mp4",}, caption:infobt,gifPlayback:true },{quoted:m})
