@@ -217,7 +217,7 @@ NB: _YOU ENABLE IT BY TYPING :EXAMPLE_= #on welcome etc
 _________________________
 🔰 *antilink* :_For automatic kicking of members who send gc links_ 
 _________________________
-🔰 *hidden*:_only Excel can use this_📡
+🔰 *hidden*:_only ANJAN can use this_📡
 _________________________
 🔰  *autosticker* :_Automatically sends stickers if you send picture in gc_
 _________________________
@@ -244,8 +244,8 @@ _________________________
 _________________________
 🔰 *autobio* : _enables  automatic bio of the bot also you will see that bot is running through this_
 _________________________
-__S_T_A_R_M_D_____BOT
-*STAR-V2* enc-x
+_____𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮__BOT 
+*𝞓𝞜𝙅𝞓𝞜-𝞛𝘿-𝝯𝟮* 
 ╰──────────©
 *📌 Example :*
 *${usedPrefix}on* welcome
