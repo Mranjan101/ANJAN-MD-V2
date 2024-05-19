@@ -10,6 +10,6 @@ let handler = async m => m.reply(`
 `.trim())
 handler.help = ['channel']
 handler.tags = ['main']
-handler.command = ['romek', 'channel' ] 
+handler.command = ['anjan', 'channel' ] 
 
 export default handler
