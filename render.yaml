@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: STAR-V2-MD
+    name: ANJAN-V2-MD
     env: docker
     region: Frankfurt
     plan: free
